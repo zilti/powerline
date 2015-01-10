@@ -1,3 +1,6 @@
+[Moved to https://bitbucket.org/zilti/powerline](https://bitbucket.org/zilti/powerline)
+=======================================================================================
+
 powerline
 =========
 
